@@ -48,7 +48,11 @@ ul{
 .log{
     padding: 10px;
     border: black 1px solid;
-    background-color: white;   
+    background-color: white;  
+    
+    font-weight: 700;
+    color: #2d2f31;
+    
 }
 .log:hover{
     background-color: snow;
@@ -58,6 +62,7 @@ ul{
     border: black 1px solid;
     background-color: #2d2f31;
     color: white;
+    font-weight: 700;
     
 }
 .sign:hover{
@@ -126,7 +131,7 @@ ul{
     font-family: sans-serif;
 }
 .py{
-    border: solid black 1px;
+    border: solid grey 1px;
     margin-left: 30px;
     
     margin-top: 20px;
